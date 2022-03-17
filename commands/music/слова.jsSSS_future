@@ -1,0 +1,39 @@
+module.exports = {
+    name: 'слова',
+    aliases: ['lyrics'],
+    category: 'Music',
+    utilisation: '{prefix}lyrics',
+
+    execute(client, message) {
+        if (!message.member.voice.channel) return message.channel.send(`${client.emotes.error} - Вы сейчас не в голосовом канале !`);
+
+        if (message.guild.me.voice.channel && message.member.voice.channel.id !== message.guild.me.voice.channel.id) return message.channel.send(`${client.emotes.error} -  Вы сейчас не в том голосовом канале !`);
+
+        if (!client.player.getQueue(message)) return message.channel.send(`${client.emotes.error} - Сейчас никакая музыка не играет !`);
+
+        const track = client.player.nowPlaying(message);
+        const filters = [];
+
+        Object.keys(client.player.getQueue(message).filters).forEach((filterName) => client.player.getQueue(message).filters[filterName]) ? filters.push(filterName) : false;
+           lyricsClient.search("alan walker faded")
+            .then(x => console.log(x))
+            .catch(console.error);
+            
+        message.channel.send({
+            embed: {
+                color: 'YELLOW',
+                author: { name: track.title },
+                footer: { text: 'Этот проект основан на библиотеке Zerio, бот написан и содежится MRX' },
+                fields: [
+                    { name: 'Автор', value: track.author, inline: true },
+                    { name: 'Запрошено', value: track.requestedBy.username, inline: true },
+                    { name: 'Из плейлиста', value: track.fromPlaylist ? 'Да' : 'Нет', inline: true },
+
+                    {name: 'Слова',vaule: client.player.lyrics}
+                ],
+                thumbnail: { url: track.thumbnail },
+                timestamp: new Date(),
+            },
+        });
+    },
+};

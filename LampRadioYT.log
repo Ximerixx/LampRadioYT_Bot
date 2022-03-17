@@ -1,0 +1,1644 @@
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: message is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:39:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 8 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 8 пользователей оналйн.
+TypeError: Cannot read property 'destroy' of null
+    at Player._handleVoiceStateUpdate (/home/pi/musicbotyt/node_modules/discord-player/src/Player.js:1086:26)
+    at Client.<anonymous> (/home/pi/musicbotyt/node_modules/discord-player/src/Player.js:147:68)
+    at Client.emit (events.js:314:20)
+    at VoiceStateUpdate.handle (/home/pi/musicbotyt/node_modules/discord.js/src/client/actions/VoiceStateUpdate.js:40:14)
+    at Object.module.exports [as VOICE_STATE_UPDATE] (/home/pi/musicbotyt/node_modules/discord.js/src/client/websocket/handlers/VOICE_STATE_UPDATE.js:4:35)
+    at WebSocketManager.handlePacket (/home/pi/musicbotyt/node_modules/discord.js/src/client/websocket/WebSocketManager.js:384:31)
+    at WebSocketShard.onPacket (/home/pi/musicbotyt/node_modules/discord.js/src/client/websocket/WebSocketShard.js:444:22)
+    at WebSocketShard.onMessage (/home/pi/musicbotyt/node_modules/discord.js/src/client/websocket/WebSocketShard.js:301:10)
+    at WebSocket.onMessage (/home/pi/musicbotyt/node_modules/ws/lib/event-target.js:132:16)
+    at WebSocket.emit (events.js:314:20)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 5 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 5 пользователей оналйн.
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: Status code: 403
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error [ERR_STREAM_DESTROYED]: input stream: Cannot call write after a stream was destroyed
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: Status code: 403
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 8 пользователей оналйн. Ошибка : Error: input stream: Status code: 403
+Error: getaddrinfo EAI_AGAIN www.youtube.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:66:26) {
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN',
+  syscall: 'getaddrinfo',
+  hostname: 'www.youtube.com'
+}
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error [ERR_STREAM_DESTROYED]: input stream: Cannot call write after a stream was destroyed
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 5 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 5 пользователей оналйн.
+Username: LampRadioYT работает на 2 серверах, пользователей 15 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 15 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 15 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 15 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 15 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 15 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 15 пользователей оналйн. Ошибка : Error: input stream: Status code: 410
+Username: LampRadioYT работает на 2 серверах, пользователей 15 пользователей оналйн. Ошибка : Error: input stream: Status code: 410
+Username: LampRadioYT работает на 2 серверах, пользователей 17 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 17 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 17 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 17 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+RangeError: Source is too large
+    at Uint16Array.set (<anonymous>)
+    at OpusScript.encode (/home/pi/musicbotyt/node_modules/opusscript/index.js:67:16)
+    at Encoder._encode (/home/pi/musicbotyt/node_modules/prism-media/src/opus/Opus.js:60:25)
+    at Encoder._transform (/home/pi/musicbotyt/node_modules/prism-media/src/opus/Opus.js:157:24)
+    at Encoder.Transform._read (_stream_transform.js:191:10)
+    at Encoder.Transform._write (_stream_transform.js:179:12)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at Encoder.Writable.write (_stream_writable.js:318:11)
+    at VolumeTransformer.ondata (_stream_readable.js:718:22)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 5 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 5 пользователей оналйн.
+Username: LampRadioYT работает на 2 серверах, пользователей 5 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 5 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 5 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 3 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 3 пользователей оналйн.
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 5 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 5 пользователей оналйн.
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 5 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 5 пользователей оналйн.
+Username: LampRadioYT работает на 2 серверах, пользователей 6 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 6 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 6 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 10 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+MinigetError: Status code: 410
+    at ClientRequest.<anonymous> (/home/pi/musicbotyt/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:421:26)
+    at ClientRequest.emit (events.js:314:20)
+    at HTTPParser.parserOnIncomingClient (_http_client.js:601:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:122:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:474:22)
+    at TLSSocket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9) {
+  statusCode: 410
+}
+MinigetError: Status code: 410
+    at ClientRequest.<anonymous> (/home/pi/musicbotyt/node_modules/miniget/dist/index.js:210:27)
+    at Object.onceWrapper (events.js:421:26)
+    at ClientRequest.emit (events.js:314:20)
+    at HTTPParser.parserOnIncomingClient (_http_client.js:601:27)
+    at HTTPParser.parserOnHeadersComplete (_http_common.js:122:17)
+    at HTTPParser.execute (<anonymous>)
+    at TLSSocket.socketOnData (_http_client.js:474:22)
+    at TLSSocket.emit (events.js:314:20)
+    at addChunk (_stream_readable.js:297:12)
+    at readableAddChunk (_stream_readable.js:272:9) {
+  statusCode: 410
+}
+Username: LampRadioYT работает на 2 серверах, пользователей 12 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error [ERR_STREAM_DESTROYED]: input stream: Cannot call write after a stream was destroyed
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error [ERR_STREAM_DESTROYED]: input stream: Cannot call write after a stream was destroyed
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error [ERR_STREAM_DESTROYED]: input stream: Cannot call write after a stream was destroyed
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 3 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 3 пользователей оналйн.
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 2 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 2 пользователей оналйн.
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Error [VOICE_JOIN_CHANNEL]: You do not have permission to join this voice channel.
+    at /home/pi/musicbotyt/node_modules/discord.js/src/client/voice/ClientVoiceManager.js:78:15
+    at new Promise (<anonymous>)
+    at ClientVoiceManager.joinChannel (/home/pi/musicbotyt/node_modules/discord.js/src/client/voice/ClientVoiceManager.js:76:12)
+    at VoiceChannel.join (/home/pi/musicbotyt/node_modules/discord.js/src/structures/VoiceChannel.js:134:30)
+    at /home/pi/musicbotyt/node_modules/discord-player/src/Player.js:520:21
+    at new Promise (<anonymous>)
+    at Player._createQueue (/home/pi/musicbotyt/node_modules/discord-player/src/Player.js:515:16)
+    at Player.play (/home/pi/musicbotyt/node_modules/discord-player/src/Player.js:759:42)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  [Symbol(code)]: 'VOICE_JOIN_CHANNEL'
+}
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 3 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 3 пользователей оналйн.
+ReferenceError: Cannot access 'player' before initialization
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:8:1)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+ReferenceError: Cannot access 'player' before initialization
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:8:1)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+ReferenceError: downloader is not defined
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:41:26)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+TypeError: player.use is not a function
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:41:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+TypeError: player.use is not a function
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:41:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+TypeError: player.use is not a function
+    at Object.<anonymous> (/home/pi/musicbotyt/index.js:41:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Object.<anonymous> (/home/pi/.nvm/versions/node/v12.22.6/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 7 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 7 пользователей оналйн.
+Username: LampRadioYT работает на 2 серверах, пользователей 9 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Username: LampRadioYT работает на 2 серверах, пользователей 13 пользователей оналйн. Ошибка : Error: input stream: Status code: 403
+Username: LampRadioYT работает на 2 серверах, пользователей 14 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 3 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 3 пользователей оналйн.
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 4 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 4 пользователей оналйн.
+Username: LampRadioYT работает на 2 серверах, пользователей 25 пользователей оналйн. Ошибка : Error: input stream: write EPIPE
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 4 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 4 пользователей оналйн.
+Loading command хелп.js
+Loading command пинг.js
+Loading command статус.js
+Loading command возобновить.js
+Loading command громкость.js
+Loading command играть.js
+Loading command очередь.js
+Loading command очистить.js
+Loading command пауза.js
+Loading command перемешать.js
+Loading command повтор.js
+Loading command поиск.js
+Loading command пропустить.js
+Loading command сейчас.js
+Loading command стоп.js
+Loading command фильтр.js
+Loading command фильтры.js
+Loading discord.js event message.js
+Loading discord.js event ready.js
+Loading discord-player event botDisconnect.js
+Loading discord-player event channelEmpty.js
+Loading discord-player event error.js
+Loading discord-player event noResults.js
+Loading discord-player event playlistAdd.js
+Loading discord-player event queueEnd.js
+Loading discord-player event searchCancel.js
+Loading discord-player event searchInvalidResponse.js
+Loading discord-player event searchResults.js
+Loading discord-player event trackAdd.js
+Loading discord-player event trackStart.js
+Logged in as LampRadioYT. Ready on 2 servers, for a total of 3 users
+Залогинен как LampRadioYT. Готов к работе на 2 серверах, всего для 3 пользователей оналйн.
+Username: LampRadioYT работает на 2 серверах, пользователей 9 пользователей оналйн. Ошибка : Error: input stream: Status code: 410
+Username: LampRadioYT работает на 2 серверах, пользователей 9 пользователей оналйн. Ошибка : Error: input stream: Status code: 410

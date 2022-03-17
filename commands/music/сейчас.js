@@ -1,0 +1,44 @@
+module.exports = {
+    name: 'сейчас',
+    aliases: ['n', 'now', 'nw', 'onw', 'won', 'сейчас', 'играет', 'ctqxfc', 'buhftn', 'now playing'],
+    category: 'Music',
+    utilisation: '{prefix}сейчас',
+
+    execute(client, message) {
+        if (!message.member.voice.channel) return message.channel.send(`${client.emotes.error} - Вы сейчас не в голосовом канале !`);
+
+        if (message.guild.me.voice.channel && message.member.voice.channel.id !== message.guild.me.voice.channel.id) return message.channel.send(`${client.emotes.error} -  Вы сейчас не в том голосовом канале !`);
+
+        if (!client.player.getQueue(message)) return message.channel.send(`${client.emotes.error} - Сейчас никакая музыка не играет !`);
+
+        const track = client.player.nowPlaying(message);
+        const filters = [];
+
+        Object.keys(client.player.getQueue(message).filters).forEach((filterName) => client.player.getQueue(message).filters[filterName]) ? filters.push(filterName) : false;
+
+        message.channel.send({
+            embed: {
+                color: 'YELLOW',
+                author: { name: track.title },
+                footer: { text: 'Этот проект основан на библиотеке Zerio, бот написан и содежится MRX' },
+                fields: [
+                    { name: 'Автор', value: track.author, inline: true },
+                    { name: 'Запрошено', value: track.requestedBy.username, inline: true },
+                    { name: 'Из плейлиста', value: track.fromPlaylist ? 'Да' : 'Нет', inline: true },
+
+                    { name: 'Просмотров на YouTube:', value: track.views, inline: true },
+                    { name: 'Длительность:', value: track.duration, inline: true },
+                    { name: 'Активные фильтры:', value: filters.length + '/' + client.filters.length, inline: true },
+
+                    { name: 'Громкость:', value: client.player.getQueue(message).volume, inline: true },
+                    { name: 'Режим повтора:', value: client.player.getQueue(message).repeatMode ? 'Включен' : 'Выключен', inline: true },
+                    { name: 'На паузе', value: client.player.getQueue(message).paused ? 'Да' : 'Нет', inline: true },
+
+                    { name: 'Прогресс:', value: client.player.createProgressBar(message, { timecodes: true }), inline: true }
+                ],
+                thumbnail: { url: track.thumbnail },
+                timestamp: new Date(),
+            },
+        });
+    },
+};
