@@ -4,10 +4,6 @@
 
 ### ⚡ Installation/Установка
 
-Well, let's start by downloading the code.
-Go to the folder `config` then the file `bot.js`.
-For the bot to be able to start, please complete the file with your credentials as follows :
-
 Ну, сначала скачиваем его и создаем папку `config`, а в ней создаем bot.js
 Настройки:
 
@@ -23,13 +19,24 @@ emojis: {
 }
 ```
 
-- Для авторизации
+- Для авторизации и других ништяков
 
 ```js
 discord: {
-    token: 'TOKEN',
-    prefix: 'PREFIX',
-    activity: 'ACTIVITY',
+    token: 'Ваш токен',
+    prefix: 'Ваш префикс',
+    activity: 'LampRadioYT',
+    typeOfActivity: 'LISTENING', /*тип активности когда бот играет*/
+    searchActivity: 'результаты поиска...', /*когда кто-то ищет любимый трек*/
+    searchTypeOfActivity: 'WATCHING', /*Всё еще смотрим на список...*/
+    playActivityPrefix: '',  /*Это составной вывод активности с форматом : playActivityPrefix,${track.title}, playActivitySuffix*/
+    playActivitySuffix: '...',
+    playTypeOfActivity: 'LISTENING',
+    queueEndActivity: '', ,*Когда закончились треки:*/
+    queueEndTypeOfActivity: 'LISTENING',
+    emptyActivity: 'на пустой канлал...',
+    emptyTypeOfActivity: 'WATCHING',
+
 }
 ```
 
