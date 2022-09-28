@@ -27,6 +27,8 @@ module.exports = {
                 client.player.setLoopMode(message, true);
                 return message.channel.send(`${client.emotes.success} - Повтор **включен** для всей очереди !`);
             }
+        } else {
+            return message.channel.send(`${client.emotes.error} - Нет такой опции`);
         }
     },
 };
