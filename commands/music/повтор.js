@@ -11,22 +11,22 @@ module.exports = {
 
         if (!client.player.getQueue(message)) return message.channel.send(`${client.emotes.error} - Сейчас никакая музыка не играет!`)
 
-        if (args.join(" ").toLowerCase() === 'queue', 'q', 'quenue', 'qq', 'list', 'playlist', 'все', 'всё', 'очередь', 'список', 'списка', 'всего') {
-            if (client.player.getQueue(message).loopMode) {
-                client.player.setLoopMode(message, false);
-                return message.channel.send(`${client.emotes.success} - Повтор **включен** !`);
-            } else {
-                client.player.setLoopMode(message, true);
-                return message.channel.send(`${client.emotes.success} - Повтор **включен** для всей очереди !`);
-            };
-        } else {
+        if (!args[0] || args.length === 0) {
             if (client.player.getQueue(message).repeatMode) {
                 client.player.setRepeatMode(message, false);
                 return message.channel.send(`${client.emotes.success} - Повтор **выключен** !`);
             } else {
                 client.player.setRepeatMode(message, true);
                 return message.channel.send(`${client.emotes.success} - Повтор **включен** для этого трека !`);
-            };
-        };
+            }
+        } else if (args.join(" ").toLowerCase() === 'queue', 'q', 'quenue', 'qq', 'list', 'playlist', 'все', 'всё', 'очередь', 'список', 'списка', 'всего') {
+            if (client.player.getQueue(message).loopMode) {
+                client.player.setLoopMode(message, false);
+                return message.channel.send(`${client.emotes.success} - Повтор **включен** !`);
+            } else {
+                client.player.setLoopMode(message, true);
+                return message.channel.send(`${client.emotes.success} - Повтор **включен** для всей очереди !`);
+            }
+        }
     },
 };
